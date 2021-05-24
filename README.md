@@ -1,6 +1,6 @@
 # sally
 
-A new Flutter project.
+A E-Commerce Flutter v-1.2 project.
 
 ## Getting Started
 
